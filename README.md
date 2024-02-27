@@ -1,2 +1,2 @@
 # MetNum2024
-Labs Para la asignatura Métodos Numéricos - UNAL 2024-1
+Labs, quizes y demás Para la asignatura Métodos Numéricos - UNAL 2024-1
